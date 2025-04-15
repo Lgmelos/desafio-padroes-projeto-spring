@@ -1,2 +1,6 @@
-# desafio-padroes-projeto-spring
-Exemplos de Padrões de Projeto com Java usando o Spring Framework.
+# Explorando Padrões de Projetos na Prática com Java
+
+Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java" da DIO. Especificamente, este projeto explorou alguns padrões usando o Spring Framework, são eles:
+- Singleton
+- Strategy/Repository
+- Facade
